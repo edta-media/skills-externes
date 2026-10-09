@@ -15,6 +15,18 @@ Téléchargées le 8 octobre 2026. Chaque dossier garde le nom de son auteur et 
 
 Les licences des cinq skills audiovisuels sont dans `multimedia/audiovisuel-5-skills/LICENCES/`.
 
+### Ajoutés le 09/10/2026
+
+| Dossier | Origine | Version d'origine | Licence | Contenu |
+|---|---|---|---|---|
+| `multimedia/nvidia-deepstream` | github.com/nvidia/skills (`skills/deepstream-*`) | commit dfdd0805a7a2 (08/10/2026) | Apache-2.0 (code), CC-BY-4.0 (textes) | 3 skills officiels NVIDIA : construire des pipelines GStreamer DeepStream (`deepstream-generate-pipeline`), développer avec le SDK (`deepstream-dev`), mesurer les performances avec Nsight (`deepstream-profile-pipeline`). |
+| `multimedia/ograf-graphics` | github.com/heretorecord/ograf-graphics-skill | commit 893b98dbec76 (15/06/2026) | MIT | Habillage antenne (synthés, bandeaux, horloges, scores) conforme à la norme EBU OGraf v1. |
+| `multimedia/cli-anything-obs-studio` | github.com/hkuds/cli-anything (`skills/cli-anything-obs-studio`) | commit 34f519533bc1 (22/09/2026) | Apache-2.0 | Édition des collections de scènes OBS en ligne de commande (outil Python à installer séparément). |
+| `multimedia/davinci-resolve` | github.com/terminalskills/skills (`skills/davinci-resolve`) | commit a021875c0f1b (03/10/2026) | Apache-2.0 | Automatisation de DaVinci Resolve par son API Python ou Lua. |
+| `multimedia/moq` | github.com/moq-dev/moq (`skills/moq`) | commit 18a0ef5a3e61 (09/10/2026) | Apache-2.0 ou MIT | Media over QUIC : diffusion en direct à très faible latence ; renvoie vers la documentation en ligne doc.moq.dev. |
+
+Les licences de chaque source sont dans le sous-dossier `LICENCES/` de son dossier. Erreurs connues dans ces skills : voir `ERRATA.md`.
+
 ## Autres corps de métier
 
 | Dossier | Origine | Version d'origine | Licence | Contenu |
