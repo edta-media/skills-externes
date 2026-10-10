@@ -24,6 +24,7 @@ Les licences des cinq skills audiovisuels sont dans `multimedia/audiovisuel-5-sk
 | `multimedia/cli-anything-obs-studio` | github.com/hkuds/cli-anything (`skills/cli-anything-obs-studio`) | commit 34f519533bc1 (22/09/2026) | Apache-2.0 | Édition des collections de scènes OBS en ligne de commande (outil Python à installer séparément). |
 | `multimedia/davinci-resolve` | github.com/terminalskills/skills (`skills/davinci-resolve`) | commit a021875c0f1b (03/10/2026) | Apache-2.0 | Automatisation de DaVinci Resolve par son API Python ou Lua. |
 | `multimedia/moq` | github.com/moq-dev/moq (`skills/moq`) | commit 18a0ef5a3e61 (09/10/2026) | Apache-2.0 ou MIT | Media over QUIC : diffusion en direct à très faible latence ; renvoie vers la documentation en ligne doc.moq.dev. |
+| `multimedia/hyperframes` | github.com/heygen-com/hyperframes (`skills/`) | commit 1de8b5ae3360 (09/10/2026), CLI npm `hyperframes@0.8.143` | Apache-2.0 | 21 skills HyperFrames : vidéo en HTML rendue en MP4. `product-launch-video` transforme un site en pub vidéo (testé le 09/10/2026 sur edata-media.com, résultat validé par Abass). Garder le dossier entier : les skills se renvoient les uns aux autres. |
 
 Les licences de chaque source sont dans le sous-dossier `LICENCES/` de son dossier. Erreurs connues dans ces skills : voir `ERRATA.md`.
 
